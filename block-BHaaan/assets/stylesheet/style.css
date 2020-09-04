@@ -1,0 +1,21 @@
+header {
+	background-color: #C886C7;
+	text-align: center;
+	margin: 30px;
+}
+.nav a {
+	margin-left: 20px;
+}
+footer {
+	padding: 20px;
+	background-color: #9090E7;
+	text-align: center;
+	border-bottom: 20px;
+}
+main {
+	width: 600px;
+    margin: auto;
+}
+img {
+	width: 100%;
+}
